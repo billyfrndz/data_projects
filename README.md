@@ -31,7 +31,7 @@ Below is a list of the Jupyter Notebook files included in this repository:
 
 - Python
 - Jupyter Notebook
-- Pandas/
+- Pandas
 - NumPy
 - Matplotlib
 - Seaborn
@@ -42,7 +42,7 @@ Below is a list of the Jupyter Notebook files included in this repository:
 Feel free to reach out if you have any questions or would like to discuss my work further!
 
 - Email: billypratamafernandez@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/billy-fernandez)
-- GitHub: [Your GitHub Profile](https://github.com/billyfrndz)
+- LinkedIn: [Billy Fernandez](https://www.linkedin.com/in/billy-fernandez)
+- GitHub: [billyfrndz](https://github.com/billyfrndz)
 
 Thank you for visiting my portfolio!
