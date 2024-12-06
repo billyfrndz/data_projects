@@ -1,6 +1,7 @@
-# Your Name's Portfolio
+# Billy Fernandez Data Analyst Projects
 
-Welcome to my portfolio repository! Here, you will find a collection of Jupyter Notebooks showcasing my work in data analysis, machine learning, and other related projects.
+Welcome to my portfolio repository! Here, you will find a collection of Jupyter Notebooks showcasing my work in data analysis, machine learning, and other related projects. 
+You can find more of my uncompleted projects on [Kaggle](https://www.kaggle.com/billyfernandez/code)
 
 ## Table of Contents
 
@@ -17,14 +18,14 @@ This repository contains various Jupyter Notebooks that demonstrate my skills in
 
 Below is a list of the Jupyter Notebook files included in this repository:
 
-1. **Project1_Name.ipynb**  
-   Description: Brief description of what this project is about, the data used, and the insights gained.
+1. **diabetes-analysis-eda-predictions.ipynb**  
+   Description: Exploratory Analysis and Modelling Outcomes (Diabetes) with Logistic Regression and Random Forest Classifier Models.
 
-2. **Project2_Name.ipynb**  
-   Description: Brief description of what this project is about, the data used, and the insights gained.
+2. **e-commerce-analysis-eda-linear-regression.ipynb**  
+   Description: Exploratory Analysis and Modelling Final Prices with Linear Regression Model.
 
-3. **Project3_Name.ipynb**  
-   Description: Brief description of what this project is about, the data used, and the insights gained.
+3. **weather-prediction-logistic-regression.ipynb**  
+   Description: Modelling Rain with Logistic Regression Model.
 
 ## Technologies Used
 
