@@ -18,14 +18,17 @@ This repository contains various Jupyter Notebooks that demonstrate my skills in
 
 Below is a list of the Jupyter Notebook files included in this repository:
 
-1. **diabetes-analysis-eda-predictions.ipynb**  
-   Description: Exploratory Analysis and Modelling Outcomes (Diabetes) with Logistic Regression and Random Forest Classifier Models.
+1. **air-quality-ad-pollution-assessment-logisticregression-randomforestclassifier-gridsearchcv.ipynb**  
+   Description: Modeling Air Quality Using Logistic Regression and Random Forest Classifier with GridSearchCV for Hyperparameter Tuning.
 
-2. **e-commerce-analysis-eda-linear-regression.ipynb**  
-   Description: Exploratory Analysis and Modelling Final Prices with Linear Regression Model.
+2. **diabetes-analysis-eda-predictions.ipynb**  
+   Description: Exploratory Data Analysis and Modeling Outcomes for Diabetes Using Logistic Regression and Random Forest Classifier Models.
 
-3. **weather-prediction-logistic-regression.ipynb**  
-   Description: Modelling Rain with Logistic Regression Model.
+3. **e-commerce-analysis-eda-linear-regression.ipynb**  
+   Description: Exploratory Data Analysis and Modeling Final Prices Using a Linear Regression Model.
+
+4. **weather-prediction-logistic-regression.ipynb**  
+   Description: Modeling Rainfall Prediction Using a Logistic Regression Model.
 
 ## Technologies Used
 
