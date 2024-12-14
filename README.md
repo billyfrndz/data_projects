@@ -27,8 +27,11 @@ Below is a list of the Jupyter Notebook files included in this repository:
 3. **e-commerce-analysis-eda-linear-regression.ipynb**  
    Description: Exploratory Data Analysis and Modeling Final Prices Using a Linear Regression Model.
 
+4. **loan-approval-classification.ipynb**  
+   Description: Modeling Loan Status Using a XGBoost Classification Model with GridSearchCV For Hyperparameter Tuning.
+   
 4. **weather-prediction-logistic-regression.ipynb**  
-   Description: Modeling Rainfall Prediction Using a Logistic Regression Model.
+Description: Modeling Rainfall Prediction Using a Logistic Regression Model.
 
 ## Technologies Used
 
