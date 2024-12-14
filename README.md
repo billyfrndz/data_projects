@@ -42,6 +42,7 @@ Description: Modeling Rainfall Prediction Using a Logistic Regression Model.
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- XGBoost
   
 ## Contact
 
