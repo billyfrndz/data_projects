@@ -1,7 +1,7 @@
 # Billy Fernandez Data Analyst Projects
 
 Welcome to my portfolio repository! Here, you will find a collection of Jupyter Notebooks showcasing my work in data analysis, machine learning, and other related projects. 
-You can find more of my uncompleted projects on [Kaggle](https://www.kaggle.com/billyfernandez/code) i'll upload the datasets i used soon.
+You can find more of my uncompleted projects on [Kaggle](https://www.kaggle.com/billyfernandez/code)
 
 ## Table of Contents
 
